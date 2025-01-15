@@ -1,0 +1,1 @@
+docker container exec -it worker03 docker swarm join --token SWMTKN-1-5ebbi3wmh0b371b2d9fi6vmmvedrzz5jifc7g84pqr8kj1od3l-33pu681nzc1f7v4bv47myfeaf 172.18.0.3:2377
